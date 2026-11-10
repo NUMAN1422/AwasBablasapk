@@ -1,0 +1,33 @@
+AwasBablas! (aplikasi Android)
+Dikembangkan oleh Muhamad Nur Rohman.
+
+Syarat penggunaan
+
+Pengguna diperkenankan mengunduh, memasang, dan menggunakan AwasBablas!
+secara gratis untuk keperluan pribadi.
+
+Hal-hal berikut tidak diperkenankan tanpa izin tertulis dari pengembang:
+
+1. Mendistribusikan ulang aplikasi, baik berkas APK maupun bagian-bagiannya.
+2. Memodifikasi, membongkar (reverse engineering), mendekompilasi, atau
+   membuat karya turunan dari aplikasi, kecuali sejauh diizinkan oleh hukum
+   yang berlaku.
+3. Menjual, menyewakan, atau memanfaatkan aplikasi untuk tujuan komersial.
+4. Menggunakan nama, logo, atau maskot AwasBablas! seolah-olah milik pihak
+   lain.
+
+Tanpa jaminan
+
+Aplikasi ini disediakan "sebagaimana adanya", tanpa jaminan dalam bentuk apa
+pun, baik tersurat maupun tersirat. Alarm bergantung pada GPS, jaringan, dan
+sistem perangkat yang dapat tidak akurat atau tidak tersedia. Pengembang
+tidak bertanggung jawab atas kerugian, keterlambatan, atau kebablasan yang
+timbul dari penggunaan aplikasi.
+
+Komponen pihak ketiga
+
+Aplikasi memuat komponen pihak ketiga yang tunduk pada lisensinya masing-
+masing, termasuk Flutter, paket Dart, Firebase, data OpenStreetMap (ODbL),
+font Bagel Fat One (SIL Open Font License 1.1), dan font Chewy (Apache
+License 2.0). Teks lisensi komponen tersebut tersedia di dalam aplikasi pada
+halaman Tentang, kemudian Lisensi.
