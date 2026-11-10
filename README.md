@@ -13,8 +13,6 @@ Pengguna memilih tujuan pada peta, menentukan radius, lalu menekan **Mulai panta
 
 Unduh berkas APK terbaru pada halaman **[Releases](https://github.com/NUMAN1422/AwasBablasapk/releases/latest)**:
 
-## Unduh
-
 - **Android**: `AwasBablas-v1.0.0.apk`
 - **iOS**: segera hadir
 
