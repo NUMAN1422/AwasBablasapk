@@ -13,10 +13,10 @@ Pengguna memilih tujuan pada peta, menentukan radius, lalu menekan **Mulai panta
 
 Unduh berkas APK terbaru pada halaman **[Releases](https://github.com/NUMAN1422/AwasBablasapk/releases/latest)**:
 
-- **Android**: `AwasBablas-v1.0.0.apk`
+- **Android**: `AwasBablas-v1.0.1.apk`
 - **iOS**: segera hadir
 
-Versi terbaru: **1.0.0**. Aplikasi memerlukan layanan lokasi (GPS) dan koneksi internet untuk peta dan pencarian tempat.
+Versi terbaru: **1.0.1**. Aplikasi memerlukan layanan lokasi (GPS) dan koneksi internet untuk peta dan pencarian tempat.
 
 ## Cara memasang
 
